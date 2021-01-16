@@ -1,0 +1,3 @@
+D:/C++/Teme/Ex7.4/cmake-build-debug/CMakeFiles/Ex7_4.dir
+D:/C++/Teme/Ex7.4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/Teme/Ex7.4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
