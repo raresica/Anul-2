@@ -1,0 +1,97 @@
+The system is: Windows - 10.0.19041 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/Programe/Programe Facultate/C++/VS/VS Community 2019/VC/Tools/MSVC/14.27.29110/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.27.29112 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.27.29112.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/Programe/Programe Facultate/C++/Workspace CLion/Programare C++ - An II - Monescu/22.10.2020/Stiva-Coada/Operatii Specifice Coada/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Programe/Programe Facultate/C++/VS/VS Community 2019/VC/Tools/MSVC/14.27.29110/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.27.29112 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.27.29112.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/Programe/Programe Facultate/C++/Workspace CLion/Programare C++ - An II - Monescu/22.10.2020/Stiva-Coada/Operatii Specifice Coada/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/Programe/Programe Facultate/C++/Workspace CLion/Programare C++ - An II - Monescu/22.10.2020/Stiva-Coada/Operatii Specifice Coada/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_57d39\fast && 	"D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_57d39.dir\build.make /nologo -L                  CMakeFiles\cmTC_57d39.dir\build
+Building C object CMakeFiles/cmTC_57d39.dir/testCCompiler.c.obj
+	"D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\Hostx86\x86\cl.exe" @C:\Users\Daniel\AppData\Local\Temp\nmFAEC.tmp
+testCCompiler.c
+Linking C executable cmTC_57d39.exe
+	"D:\Programe\Programe Facultate\C++\CLion\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_57d39.dir --rc="D:\Windows Kits\10\bin\10.0.18362.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.18362.0\x86\mt.exe" --manifests  -- "D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_57d39.dir\objects1.rsp @C:\Users\Daniel\AppData\Local\Temp\nmFC74.tmp
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/Programe/Programe Facultate/C++/Workspace CLion/Programare C++ - An II - Monescu/22.10.2020/Stiva-Coada/Operatii Specifice Coada/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_3343c\fast && 	"D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_3343c.dir\build.make /nologo -L                  CMakeFiles\cmTC_3343c.dir\build
+Building C object CMakeFiles/cmTC_3343c.dir/CMakeCCompilerABI.c.obj
+	"D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\Hostx86\x86\cl.exe" @C:\Users\Daniel\AppData\Local\Temp\nm898.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_3343c.exe
+	"D:\Programe\Programe Facultate\C++\CLion\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_3343c.dir --rc="D:\Windows Kits\10\bin\10.0.18362.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.18362.0\x86\mt.exe" --manifests  -- "D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_3343c.dir\objects1.rsp @C:\Users\Daniel\AppData\Local\Temp\nmB0A.tmp
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/Programe/Programe Facultate/C++/Workspace CLion/Programare C++ - An II - Monescu/22.10.2020/Stiva-Coada/Operatii Specifice Coada/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_4ef5d\fast && 	"D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_4ef5d.dir\build.make /nologo -L                  CMakeFiles\cmTC_4ef5d.dir\build
+Building CXX object CMakeFiles/cmTC_4ef5d.dir/testCXXCompiler.cxx.obj
+	"D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\Hostx86\x86\cl.exe" @C:\Users\Daniel\AppData\Local\Temp\nm1819.tmp
+testCXXCompiler.cxx
+Linking CXX executable cmTC_4ef5d.exe
+	"D:\Programe\Programe Facultate\C++\CLion\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_4ef5d.dir --rc="D:\Windows Kits\10\bin\10.0.18362.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.18362.0\x86\mt.exe" --manifests  -- "D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_4ef5d.dir\objects1.rsp @C:\Users\Daniel\AppData\Local\Temp\nm1B37.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/Programe/Programe Facultate/C++/Workspace CLion/Programare C++ - An II - Monescu/22.10.2020/Stiva-Coada/Operatii Specifice Coada/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_a0566\fast && 	"D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_a0566.dir\build.make /nologo -L                  CMakeFiles\cmTC_a0566.dir\build
+Building CXX object CMakeFiles/cmTC_a0566.dir/CMakeCXXCompilerABI.cpp.obj
+	"D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\Hostx86\x86\cl.exe" @C:\Users\Daniel\AppData\Local\Temp\nm27E8.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_a0566.exe
+	"D:\Programe\Programe Facultate\C++\CLion\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_a0566.dir --rc="D:\Windows Kits\10\bin\10.0.18362.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.18362.0\x86\mt.exe" --manifests  -- "D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_a0566.dir\objects1.rsp @C:\Users\Daniel\AppData\Local\Temp\nm2AE6.tmp
+
+
+
