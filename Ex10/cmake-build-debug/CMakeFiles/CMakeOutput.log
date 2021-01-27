@@ -1,0 +1,97 @@
+The system is: Windows - 10.0.19041 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/Programe/Programe Facultate/C++/VS/VS Community 2019/VC/Tools/MSVC/14.27.29110/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.27.29112 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.27.29112.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/Programe/Programe Facultate/C++/Workspace CLion/Programare C++ - An II - Monescu/16.11.2020/ListaSimpluInlantuita/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Programe/Programe Facultate/C++/VS/VS Community 2019/VC/Tools/MSVC/14.27.29110/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.27.29112 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.27.29112.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/Programe/Programe Facultate/C++/Workspace CLion/Programare C++ - An II - Monescu/16.11.2020/ListaSimpluInlantuita/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/Programe/Programe Facultate/C++/Workspace CLion/Programare C++ - An II - Monescu/16.11.2020/ListaSimpluInlantuita/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_4bca4\fast && 	"D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_4bca4.dir\build.make /nologo -L                  CMakeFiles\cmTC_4bca4.dir\build
+Building C object CMakeFiles/cmTC_4bca4.dir/testCCompiler.c.obj
+	"D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\Hostx86\x86\cl.exe" @C:\Users\Daniel\AppData\Local\Temp\nm9DF9.tmp
+testCCompiler.c
+Linking C executable cmTC_4bca4.exe
+	"D:\Programe\Programe Facultate\C++\CLion\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_4bca4.dir --rc="D:\Windows Kits\10\bin\10.0.18362.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.18362.0\x86\mt.exe" --manifests  -- "D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_4bca4.dir\objects1.rsp @C:\Users\Daniel\AppData\Local\Temp\nm9E96.tmp
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/Programe/Programe Facultate/C++/Workspace CLion/Programare C++ - An II - Monescu/16.11.2020/ListaSimpluInlantuita/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_7a720\fast && 	"D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_7a720.dir\build.make /nologo -L                  CMakeFiles\cmTC_7a720.dir\build
+Building C object CMakeFiles/cmTC_7a720.dir/CMakeCCompilerABI.c.obj
+	"D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\Hostx86\x86\cl.exe" @C:\Users\Daniel\AppData\Local\Temp\nmA75F.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_7a720.exe
+	"D:\Programe\Programe Facultate\C++\CLion\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_7a720.dir --rc="D:\Windows Kits\10\bin\10.0.18362.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.18362.0\x86\mt.exe" --manifests  -- "D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_7a720.dir\objects1.rsp @C:\Users\Daniel\AppData\Local\Temp\nmA83B.tmp
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/Programe/Programe Facultate/C++/Workspace CLion/Programare C++ - An II - Monescu/16.11.2020/ListaSimpluInlantuita/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_df71e\fast && 	"D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_df71e.dir\build.make /nologo -L                  CMakeFiles\cmTC_df71e.dir\build
+Building CXX object CMakeFiles/cmTC_df71e.dir/testCXXCompiler.cxx.obj
+	"D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\Hostx86\x86\cl.exe" @C:\Users\Daniel\AppData\Local\Temp\nmACED.tmp
+testCXXCompiler.cxx
+Linking CXX executable cmTC_df71e.exe
+	"D:\Programe\Programe Facultate\C++\CLion\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_df71e.dir --rc="D:\Windows Kits\10\bin\10.0.18362.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.18362.0\x86\mt.exe" --manifests  -- "D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_df71e.dir\objects1.rsp @C:\Users\Daniel\AppData\Local\Temp\nmADC9.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/Programe/Programe Facultate/C++/Workspace CLion/Programare C++ - An II - Monescu/16.11.2020/ListaSimpluInlantuita/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_5a9c3\fast && 	"D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_5a9c3.dir\build.make /nologo -L                  CMakeFiles\cmTC_5a9c3.dir\build
+Building CXX object CMakeFiles/cmTC_5a9c3.dir/CMakeCXXCompilerABI.cpp.obj
+	"D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\Hostx86\x86\cl.exe" @C:\Users\Daniel\AppData\Local\Temp\nmB26B.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_5a9c3.exe
+	"D:\Programe\Programe Facultate\C++\CLion\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_5a9c3.dir --rc="D:\Windows Kits\10\bin\10.0.18362.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.18362.0\x86\mt.exe" --manifests  -- "D:\Programe\Programe Facultate\C++\VS\VS Community 2019\VC\Tools\MSVC\14.27.29110\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_5a9c3.dir\objects1.rsp @C:\Users\Daniel\AppData\Local\Temp\nmB308.tmp
+
+
+
